@@ -1,5 +1,5 @@
 const main = () => {
-    console.log('--------main')
+    console.log('--------module1')
 }
 
 void main()
