@@ -1,4 +1,4 @@
-const main = () => {
+export const main = () => {
     console.log('--------main')
 }
 
